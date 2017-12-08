@@ -1,6 +1,17 @@
 🚀 Check out the guidelines [here](https://github.com/xcodeswift/contributors/blob/master/CHANGELOG_GUIDELINES.md)
 
-## 1.6.0 (next version)
+## Next version
+
+## 1.7.0
+
+- Support more indentation options on PBXGroups https://github.com/xcodeswift/xcproj/pull/168 by @bkase
+
+## 1.6.1
+
+### Fixed
+- Fix encoded line breaks in PBXFileReference https://github.com/xcodeswift/xcproj/pull/177 by @yonaskolb
+
+## 1.6.0
 
 ### Added
 - PBXLegacyTarget support https://github.com/xcodeswift/xcproj/pull/171 by @bkase
